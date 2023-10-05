@@ -1,0 +1,27 @@
+.heading {
+  font-size: 36px;
+  font-weight: 800;
+  line-height: 40px;
+  color: #1a202c;
+  margin-bottom: 50px;
+}
+
+.end_buttons {
+  margin: 40px;
+  display: flex;
+  justify-content: end;
+}
+
+.NavActive {
+  margin: 0px 5px;
+  cursor: pointer;
+  color: black;
+  text-decoration: none;
+}
+
+.NavNonActive {
+  margin: 0px 5px;
+  cursor: pointer;
+  color: #8793a3;
+  text-decoration: underline;
+}
